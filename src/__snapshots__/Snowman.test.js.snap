@@ -183,6 +183,11 @@ exports[`matches snapshot 1`] = `
         z
       </button>
     </p>
+    <button
+      class="Snowman-restart-btn"
+    >
+      Restart
+    </button>
   </div>
 </div>
 `;
